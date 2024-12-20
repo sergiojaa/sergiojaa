@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sergi Kaliashvili</h1>
+<h3 align="center">A passionate Front-End software engiener from Georgia</h3>
 🔭 I’m currently working on the Front-End for an Electronics store<br><br>🌱 I’m currently learning data structures & alghorithms<br><br>💬 Ask me about react/next<br><br>📫 How to reach me kaliashvilisergi@gmail.com
 
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiojaa" alt="sergiojaa" /></a> </p>
 
-- 🔭 I’m currently working on **the Front-End for an Electronics store**
+- 🔭 I’m currently working on **the Front-End for an Electronics store website**
 
 - 🌱 I’m currently learning **data structures & alghorithms**
 

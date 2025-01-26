@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **data structures & alghorithms**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vercel.com/sergiojaas-projects/my-portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-lime-one-75.vercel.app/)
 
 - 💬 Ask me about **react/next**
 

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergi Qaliashvili</h1>
 <h3 align="center">A passionate Front-End software engiener from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiojaa&label=Profile%20views&color=0e75b6&style=flat" alt="sergiojaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiojaa" alt="sergiojaa" /></a> </p>
 

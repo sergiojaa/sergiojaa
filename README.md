@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **data structures & alghorithms**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/sergiojaas-projects/my-portfolio](https://vercel.com/sergiojaas-projects/my-portfolio)
-
 - 💬 Ask me about **react/next**
 
 - 📫 How to reach me **kaliashvilisergi@gmail.com**

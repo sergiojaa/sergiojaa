@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [the Front-End for an Electronics store website](https://github.com/sergiojaa/ecommerce)
 
-- 🌱 I’m currently learning **data structures & alghorithms**
+- 🌱 I’m currently learning **Node.js, Express, MongoDBs**
 
 - 💬 Ask me about **react/next**
 

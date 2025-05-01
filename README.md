@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi Kaliashvili</h1>
-<h3 align="center">A passionate Front-End Developer from Georgia, Tbilisi</h3>
+<h3 align="center">A passionate Web Developer from Georgia, Tbilisi</h3>
 
 
 

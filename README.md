@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [the Front-End for an Electronics store website](https://github.com/sergiojaa/ecommerce)
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDBs**
+- 🌱 I’m currently learning **Node.js, Express, Nest, MongoDBs**
 
 - 💬 Ask me about **react/next**
 
